@@ -14,7 +14,7 @@ A simple and engaging typing speed test application built with Python and Tkinte
 - **Accuracy Check**: Ensures the typed sentence matches the provided sentence.  
 - **User-Friendly Interface**: A clean and intuitive design using Tkinter.  
 - **Instant Feedback**: Displays your speed and accuracy after completing the test.
-- - **countdown Timer**: 60-second countdown timer that encouragesa consistent burst of speed from the first second.
+- **countdown Timer**: 60-second countdown timer that encouragesa consistent burst of speed from the first second.
 
 ## Project Structure  
 - **Python (Tkinter)**: Used to build the GUI and implement the game logic.  
